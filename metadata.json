@@ -1,0 +1,5 @@
+{
+  "name": "HDF-Attn Simulator",
+  "description": "An interactive web application to simulate and visualize the Hyperbolic Dynamic Field Attention (HDF-Attn) equation. Explore how parameters like wave speed, damping, and bistability affect the cognitive field, and observe the emergence of metastable states.",
+  "requestFramePermissions": []
+}
